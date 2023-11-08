@@ -160,5 +160,3 @@ class Application(tk.Frame):
 root = tk.Tk()
 app = Application(master=root)
 app.mainloop()
-
-#pyinstaller --name=EmailSendingBeta1.0 --onefile Test4_AutomaticEmailSending(Beta).py
